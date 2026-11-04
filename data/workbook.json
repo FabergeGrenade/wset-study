@@ -1,0 +1,291 @@
+{
+"chapters": [
+{
+"id": "1",
+"lo": 1,
+"title": "The vineyard",
+"sections": [
+{
+"id": "1.1",
+"title": "Grapes and what a vine needs",
+"pages": "12",
+"l1": true,
+"html": null
+},
+{
+"id": "1.2",
+"title": "Ripening and concentrating sugar",
+"pages": "13-14",
+"l1": false,
+"html": null
+},
+{
+"id": "1.3",
+"title": "Climate and weather",
+"pages": "14-16",
+"l1": false,
+"html": null
+},
+{
+"id": "1.4",
+"title": "Vineyard choices",
+"pages": "16-17",
+"l1": false,
+"html": null
+},
+{
+"id": "1.5",
+"title": "Label terms: origin and grape growing",
+"pages": "17-19",
+"l1": false,
+"html": null
+}
+]
+},
+{
+"id": "2",
+"lo": 2,
+"title": "Winemaking",
+"sections": [
+{
+"id": "2.1",
+"title": "Fermentation, red, rosé and white",
+"pages": "20-21",
+"l1": true,
+"html": null
+},
+{
+"id": "2.2",
+"title": "Sweet wines and adjustments",
+"pages": "22-23",
+"l1": false,
+"html": null
+},
+{
+"id": "2.3",
+"title": "Vessels, oak, malolactic, lees, blending",
+"pages": "23-25",
+"l1": false,
+"html": null
+},
+{
+"id": "2.4",
+"title": "Bottle ageing",
+"pages": "25",
+"l1": false,
+"html": null
+}
+]
+},
+{
+"id": "3",
+"lo": 3,
+"title": "Principal black grapes",
+"sections": [
+{
+"id": "3.1",
+"title": "Pinot Noir",
+"pages": "26-28",
+"l1": false,
+"html": "<p>A thin-skinned black grape that only makes good wine in <b>cool to moderate</b> climates. Too much heat and the fresh red fruit turns cooked. It rots easily, so poor vintages are hard.</p>\n<h3>In the glass</h3>\n<ul><li>Pale to medium colour</li><li>High acidity, low to medium tannins</li><li>Red fruit: strawberry, raspberry, red cherry (fresh or cooked, depending on ripeness)</li><li>Oak should be subtle (smoke, cloves), so older or larger barrels are common</li><li>The best age into forest floor and mushroom</li></ul>\n<h3>Burgundy, its home</h3>\n<p>The best sites face south or south-east on the Côte d'Or, which splits into the <b>Côte de Nuits</b> (north) and <b>Côte de Beaune</b> (south). Quality rises up a ladder:</p>\n<div class=\"tablewrap\"><table><thead><tr><th>Level</th><th>What it means</th></tr></thead><tbody><tr><td>Bourgogne AOC</td><td>Anywhere in Burgundy. Light, fresh, drink young.</td></tr><tr><td>Village</td><td>e.g. Gevrey-Chambertin, Nuits-Saint-Georges (Côte de Nuits); Beaune, Pommard (Côte de Beaune). More intensity.</td></tr><tr><td>Premier Cru</td><td>Better vineyards within a village. Village name plus Premier Cru.</td></tr><tr><td>Grand Cru</td><td>The very best vineyards, with their own appellations. Most concentrated, longest-lived.</td></tr></tbody></table></div>\n<h3>Elsewhere: what makes it cool enough</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Region</th><th>Cooling influence</th><th>Style note</th></tr></thead><tbody><tr><td>Los Carneros, California</td><td>Fog from San Pablo Bay</td><td>Ripe red fruit, often vanilla</td></tr><tr><td>Sonoma (west), California</td><td>Pacific breezes</td><td></td></tr><tr><td>Santa Barbara County</td><td>Sea breezes</td><td></td></tr><tr><td>Oregon</td><td>Northerly, Pacific</td><td>Fresh red fruit, subtle oak</td></tr><tr><td>Casablanca Valley, Chile</td><td>Sea breezes, fog</td><td>Very fruity, cooked strawberry, good value</td></tr><tr><td>Walker Bay, South Africa</td><td>Southerly sea breezes</td><td>Vibrant red fruit</td></tr><tr><td>Yarra Valley, Mornington Peninsula</td><td>Southern Ocean breezes</td><td>Light and fragrant to riper</td></tr><tr><td>Martinborough, Marlborough (NZ)</td><td>Cool to moderate</td><td>Very good to outstanding</td></tr><tr><td>Central Otago (NZ)</td><td>Mountains; sunny days, cool nights</td><td>NZ's ripest and most powerful</td></tr></tbody></table></div>"
+},
+{
+"id": "3.2",
+"title": "Merlot",
+"pages": "48-50",
+"l1": false,
+"html": "<p>A black grape for <b>moderate and warm</b> climates, with <b>medium acidity and medium tannins</b>. It is often blended with Cabernet Sauvignon to add red fruit and soften tannin, so the wine is ready sooner.</p>\n<h3>Ripeness changes the style</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Picked</th><th>Body</th><th>Flavours</th></tr></thead><tbody><tr><td>Just ripe</td><td>Light to medium</td><td>Red fruit (strawberry, red plum), green bell pepper</td></tr><tr><td>Riper (warm climate, or later picking)</td><td>Medium to full</td><td>Cooked black fruit (blackberry, black plum)</td></tr></tbody></table></div>\n<p>Lighter styles don't need oak. Fuller styles gain softness and complexity from it. The best age into dried fruit and tobacco.</p>\n<h3>Bordeaux</h3>\n<p>Moderate and rainy (Atlantic). Most wines are blends, and Merlot is the most planted grape. The Gironde splits the region:</p>\n<ul><li><b>Right Bank</b>: Saint-Émilion (and the stricter Saint-Émilion Grand Cru) and Pomerol. Merlot dominates. Full body, black fruit, oak, long ageing.</li><li><b>Left Bank</b>: Médoc, Graves. Merlot is in the blend but Cabernet Sauvignon usually leads.</li><li><b>Bordeaux AOC / Bordeaux Supérieur AOC</b>: from anywhere in Bordeaux, usually Merlot-led. Supérieur has slightly stricter rules.</li></ul>\n<h3>Elsewhere</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Region</th><th>Note</th></tr></thead><tbody><tr><td>South of France (Pays d'Oc)</td><td>Single-varietal and blends at all quality levels</td></tr><tr><td>California, Napa Valley, Sonoma</td><td>Fruity to concentrated; often pronounced oak (vanilla, coconut, smoke)</td></tr><tr><td>Central Valley, Chile</td><td>Soft, medium-bodied, high-volume; altitude gives fresher styles</td></tr><tr><td>Stellenbosch, South Africa</td><td>Complex, age-worthy Bordeaux varieties</td></tr><tr><td>Margaret River, Australia</td><td>Blended with Cabernet Sauvignon</td></tr><tr><td>Hawke's Bay, NZ</td><td>Most of NZ's Merlot; light to long-lived</td></tr></tbody></table></div>"
+},
+{
+"id": "3.3",
+"title": "Cabernet Sauvignon",
+"pages": "51-53",
+"l1": false,
+"html": "<p>A <b>thick-skinned</b> black grape that needs a <b>long, warm</b> growing season. In moderate climates only the warmest sites ripen it.</p>\n<h3>In the glass</h3>\n<ul><li>Deep colour; dry, <b>high acidity, high tannins</b>, medium to full body</li><li>Black fruit (blackcurrant, black cherry) plus mint or green bell pepper</li><li>In warm climates the fruit can taste cooked</li><li>Often oak-aged: oxygen softens tannin, new oak adds smoke, vanilla, cloves</li><li>Ages for years into dried fruit, earth, forest floor</li></ul>\n<h3>Bordeaux Left Bank</h3>\n<p>Gravel soils help: they drain rain fast and release stored heat at night. Cabernet-led blends come from the Médoc and Haut-Médoc (which contains <b>Margaux</b> and <b>Pauillac</b>) and from Graves (which contains <b>Pessac-Léognan</b>). Bordeaux weather varies, so more Merlot goes in when Cabernet struggles.</p>\n<div class=\"tablewrap\"><table><thead><tr><th>Label term</th><th>Meaning</th></tr></thead><tbody><tr><td>Château</td><td>Made from the producer's own grapes</td></tr><tr><td>Grand Cru Classé / Cru Classé</td><td>Ranked in a classification; top price, long ageing</td></tr><tr><td>Cru Bourgeois</td><td>Médoc wines outside the classification that may use the term; some very good</td></tr></tbody></table></div>\n<h3>Elsewhere</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Region</th><th>Note</th></tr></thead><tbody><tr><td>South of France</td><td>Ripens reliably; single-varietal or blends</td></tr><tr><td>Napa Valley: Oakville, Rutherford, Calistoga</td><td>Full body, ripe black fruit, high ripe tannin. Calistoga is warmest</td></tr><tr><td>Sonoma (warm inland)</td><td>Similarly powerful</td></tr><tr><td>California (state label)</td><td>Hot Central Valley, drink young, oak chips/staves</td></tr><tr><td>Maipo and Colchagua Valleys, Chile</td><td>Chile's most planted grape; foothills give mint, green pepper</td></tr><tr><td>Stellenbosch</td><td>Fresh and herbal to full and cooked, by altitude</td></tr><tr><td>Margaret River</td><td>Ripe black fruit, subtle oak; often with Merlot</td></tr><tr><td>Coonawarra</td><td>Mint, pronounced blackcurrant, smoke and cedar</td></tr><tr><td>Hawke's Bay</td><td>Needs warmest sites; blended with Merlot</td></tr></tbody></table></div>"
+},
+{
+"id": "3.4",
+"title": "Syrah/Shiraz",
+"pages": "54-56",
+"l1": false,
+"html": "<p>Syrah (French) and Shiraz (Australian) are the same <b>thick-skinned</b> black grape. It needs a <b>moderate to warm</b> climate and gives medium to high tannin and acidity. The signature is black fruit with <b>black pepper</b>.</p>\n<div class=\"tablewrap\"><table><thead><tr><th>Climate</th><th>Typical style</th><th>Name usually used</th></tr></thead><tbody><tr><td>Moderate (Northern Rhône)</td><td>Medium body, fresh black fruit (black cherry, blackberry), herbal notes, black pepper</td><td>Syrah</td></tr><tr><td>Warm (much of Australia)</td><td>Full body, high alcohol, cooked black fruit, liquorice</td><td>Shiraz</td></tr></tbody></table></div>\n<p>Outside France and Australia, the name on the label hints at the style. Oak is common (softer tannin, smoke, spice). The best age a decade or more into dried fruit, leather, meat and earth. It is often blended with Grenache in the Southern Rhône.</p>\n<h3>Northern Rhône</h3>\n<p>Syrah is the only black grape allowed in its AOC wines. Steep slopes mean hand work and high costs.</p>\n<ul><li><b>Côte-Rôtie</b>: far north, very steep. Complex, peppery; some add a little Viognier for floral notes.</li><li><b>Hermitage</b>: one steep south-facing hill. High quality.</li><li><b>Crozes-Hermitage</b>: larger, flatter area around it. Less intense, cheaper.</li></ul>\n<h3>Elsewhere</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Region</th><th>Note</th></tr></thead><tbody><tr><td>South of France: Minervois, Pays d'Oc</td><td>Blends and single-varietal; ripens reliably</td></tr><tr><td>South Eastern Australia</td><td>Inexpensive high-volume, warm inland</td></tr><tr><td>Barossa Valley</td><td>Very old vines: full body, ripe tannin, cooked black fruit, pepper, vanilla, coffee</td></tr><tr><td>Hunter Valley</td><td>Warm but cloudy: medium body, fresh black fruit; earth and meat with age</td></tr></tbody></table></div>"
+}
+]
+},
+{
+"id": "4",
+"lo": 3,
+"title": "Principal white grapes",
+"sections": [
+{
+"id": "4.1",
+"title": "Chardonnay",
+"pages": "38-40",
+"l1": false,
+"html": "<p>A white grape that makes outstanding wine in <b>cool, moderate and warm</b> climates. Climate decides the fruit, body and acidity:</p>\n<div class=\"tablewrap\"><table><thead><tr><th>Climate</th><th>Acidity</th><th>Body</th><th>Flavours</th></tr></thead><tbody><tr><td>Cool</td><td>High</td><td>Light to medium</td><td>Apple, pear, lemon, lime, wet stones</td></tr><tr><td>Moderate</td><td>Medium to high</td><td>Medium to full</td><td>Lemon, peach, sometimes melon</td></tr><tr><td>Warm</td><td>Medium</td><td>Full</td><td>Peach, pineapple, banana</td></tr></tbody></table></div>\n<h3>Winemaking choices (all optional)</h3>\n<ul><li><b>Malolactic conversion</b>: butter, cream; softens acidity</li><li><b>Lees contact</b>: body, bread, biscuit</li><li><b>Oak</b> (barrel or cheaper chips/staves): body, smoke, vanilla, coconut</li><li><b>Acidification</b>: common in warm climates to balance alcohol and body</li><li>Unoaked styles may say \"unoaked\" or \"unwooded\"</li></ul>\n<p>The best age for decades into hazelnut and mushroom.</p>\n<h3>Burgundy</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Appellation</th><th>Style</th></tr></thead><tbody><tr><td>Bourgogne AOC</td><td>Simple, apple and lemon, high acidity</td></tr><tr><td>Chablis (cool, north)</td><td>Apple, lemon, wet stones; almost never oaky. Premier/Grand Cru on south-facing slopes. Frost risk</td></tr><tr><td>Meursault, Puligny-Montrachet (Côte de Beaune)</td><td>Riper (peach, melon); oak and lees; the best are world-class</td></tr><tr><td>Mâcon (south)</td><td>Fruity, mostly unoaked: lemon, peach, melon</td></tr><tr><td>Pouilly-Fuissé (Mâconnais)</td><td>Concentrated stone and tropical fruit, often oaked</td></tr></tbody></table></div>\n<h3>Elsewhere</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Region</th><th>Note</th></tr></thead><tbody><tr><td>South of France (IGP)</td><td>Warm, ripe peach, pineapple, banana</td></tr><tr><td>California (state label)</td><td>Hot Central Valley, high volume, oak chips</td></tr><tr><td>Carneros, Sonoma</td><td>Fog or Pacific breezes keep acidity</td></tr><tr><td>Napa Valley</td><td>Full body, tropical fruit, new oak</td></tr><tr><td>Santa Barbara County</td><td>Côte de Beaune-like to riper and oakier</td></tr><tr><td>Oregon</td><td>Moderate; high acidity, lemon to melon</td></tr><tr><td>South Eastern Australia</td><td>High-volume, warm inland, often blended</td></tr><tr><td>Adelaide Hills (altitude), Yarra Valley (ocean)</td><td>Ripe peach, medium to high acid, balanced oak</td></tr><tr><td>Margaret River</td><td>Warm, sea breezes; medium to full, peach, pineapple</td></tr><tr><td>Marlborough</td><td>Lemon, peach, melon, high acid, subtle oak</td></tr><tr><td>Hawke's Bay</td><td>Most planted white grape there; full body, high acid</td></tr><tr><td>Casablanca Valley / Central Valley, Chile</td><td>Fresh citrus and peach / all quality levels</td></tr><tr><td>Western Cape / Walker Bay</td><td>High-volume inland / very good, high acid, ripe fruit</td></tr></tbody></table></div>"
+},
+{
+"id": "4.2",
+"title": "Sauvignon Blanc",
+"pages": "41-43",
+"l1": false,
+"html": "<p>An <b>aromatic</b> white grape for <b>cool and moderate</b> climates. Usually dry, light to medium body, <b>high acidity</b>, and best drunk young: even top examples can turn vegetal within a couple of years.</p>\n<ul><li>Herbaceous: grass, green bell pepper, asparagus; also blossom</li><li>Fruit by ripeness: apple and gooseberry, wet stones, up to passion fruit</li><li>Mostly unoaked, as new oak swamps it. \"Barrel aged\" on the label signals oak</li><li>Sometimes blended with Semillon</li></ul>\n<h3>France</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Appellation</th><th>Style</th></tr></thead><tbody><tr><td>Sancerre, Pouilly-Fumé (Loire, cool)</td><td>Dry, high acid, apple, grass, asparagus, wet stones</td></tr><tr><td>Touraine (Loire)</td><td>Fruity, inexpensive</td></tr><tr><td>Bordeaux AOC</td><td>Fresh grass and green apple</td></tr><tr><td>Graves, Pessac-Léognan</td><td>Blended with Sémillon (body, ageing); often oaked; honey and nuts with age</td></tr><tr><td>South of France (cooler, high sites)</td><td>Dry, high acid, passion fruit, grass</td></tr></tbody></table></div>\n<h3>Elsewhere</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Region</th><th>Note</th></tr></thead><tbody><tr><td>Marlborough, NZ</td><td>More pronounced than Loire: lemon to passion fruit, strong green bell pepper and asparagus. Some oak or lees experiments</td></tr><tr><td>Margaret River</td><td>Grassy; often blended with Semillon, sometimes oaked</td></tr><tr><td>Adelaide Hills</td><td>Most planted grape there; citrus to tropical</td></tr><tr><td>Casablanca Valley / Central Valley, Chile</td><td>Very good / all quality levels</td></tr><tr><td>Constantia, South Africa</td><td>Sea breezes; tropical and herbaceous</td></tr><tr><td>Elgin, South Africa</td><td>Altitude, coolest region; green apple, wet stones</td></tr><tr><td>Napa Valley</td><td>Cooler sites, early picking; sometimes oak (smoke)</td></tr></tbody></table></div>"
+},
+{
+"id": "4.3",
+"title": "Riesling and German label terms",
+"pages": "31-34",
+"l1": false,
+"html": "<p>An <b>aromatic</b>, cold-hardy white grape for <b>cool to moderate</b> climates, with <b>high acidity</b> and pronounced fruit and floral aromas. It is made at every sweetness level, and its acidity balances sweetness.</p>\n<ul><li>Just ripe: apple, pear, lemon, lime. Extra ripe: peach, apricot, mango, pineapple, even dried fruit</li><li>Sugar can be concentrated by late harvest, noble rot, or freezing on the vine</li><li>Off-dry/medium: stop fermentation by removing yeast, or add sterile grape juice (Süssreserve)</li><li>Fermented in inert vessels to keep its aromas. The best age for decades into honey and petrol</li></ul>\n<h3>Germany</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Region</th><th>Style</th></tr></thead><tbody><tr><td>Mosel</td><td>Far north. Light body, often medium-sweet, very high acidity. Steep riverside slopes</td></tr><tr><td>Rheingau</td><td>South-facing slopes on the Rhine. Drier and fuller than Mosel</td></tr><tr><td>Pfalz</td><td>Sheltered by mountains, sunny. Dry, medium body, like Alsace</td></tr></tbody></table></div>\n<h3>German label terms</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Term</th><th>Meaning</th></tr></thead><tbody><tr><td>Landwein</td><td>PGI; light, dry to off-dry</td></tr><tr><td>Qualitätswein</td><td>PDO from one of 13 regions</td></tr><tr><td>Prädikatswein</td><td>PDO with riper grapes from one region; six Prädikat categories</td></tr><tr><td>Kabinett</td><td>Lightest; green apple, lime, blossom</td></tr><tr><td>Spätlese</td><td>Late harvest; fuller, riper citrus, some peach</td></tr><tr><td>Auslese</td><td>Selected extra-ripe bunches; apricot, mango, dried fruit</td></tr><tr><td>Beerenauslese (BA)</td><td>Botrytis-affected berries; sweet, honey</td></tr><tr><td>Trockenbeerenauslese (TBA)</td><td>Berries dried by botrytis; rarest, most intense</td></tr><tr><td>Eiswein</td><td>Frozen on the vine; no botrytis; pure fresh fruit</td></tr><tr><td>Trocken / Halbtrocken</td><td>Dry / some sweetness</td></tr></tbody></table></div>\n<p>Kabinett, Spätlese and Auslese can be dry. If they are, the higher Prädikat has more alcohol. BA, TBA and Eiswein are always sweet and low in alcohol.</p>\n<h3>Elsewhere</h3>\n<div class=\"tablewrap\"><table><thead><tr><th>Region</th><th>Note</th></tr></thead><tbody><tr><td>Alsace</td><td>Vosges block rain. Dry, pronounced ripe citrus, stone fruit, blossom. Grand Cru sites; Vendanges tardives for late-harvest</td></tr><tr><td>Clare Valley, Eden Valley</td><td>Altitude makes them moderate. Dry: lime, peach, blossom, petrol</td></tr></tbody></table></div>"
+},
+{
+"id": "4.4",
+"title": "Pinot Grigio/Pinot Gris",
+"pages": "44-45",
+"l1": false,
+"html": "<p>Pinot Grigio (Italian name) and Pinot Gris (French name) are the <b>same white grape</b>, grown in cool or moderate climates. Vineyard choices create two very different styles:</p>\n<div class=\"tablewrap\"><table><thead><tr><th></th><th>Light style</th><th>Rich style</th></tr></thead><tbody><tr><td>How</td><td>High yields, picked early</td><td>Controlled yields, picked late (extra ripe)</td></tr><tr><td>Body</td><td>Light</td><td>Medium to full</td></tr><tr><td>Acidity</td><td>High</td><td>Medium</td></tr><tr><td>Flavours</td><td>Simple apple, lemon</td><td>Lemon, peach, mango, banana, ginger</td></tr><tr><td>Sweetness</td><td>Dry</td><td>Dry to medium</td></tr><tr><td>Ageing</td><td>Drink young</td><td>Can gain ginger and honey</td></tr></tbody></table></div>\n<p>Both are usually fermented in inert vessels. Outside Italy and France, \"Pinot Grigio\" on a label usually signals the light style and \"Pinot Gris\" the richer one.</p>\n<h3>Italy</h3>\n<ul><li><b>delle Venezie DOC / Veneto IGT</b>: north-east Italy. High-volume, inexpensive, light, short finish.</li><li><b>Friuli-Venezia Giulia</b>: fuller, more complex.</li></ul>\n<h3>Alsace</h3>\n<p>Picked extra-ripe: medium to full body, peach, mango, ginger, dry to medium. Best from grand cru sites.</p>\n<div class=\"tablewrap\"><table><thead><tr><th>Label term</th><th>Meaning</th></tr></thead><tbody><tr><td>Alsace AOC</td><td>Whole region; labelled by grape</td></tr><tr><td>Alsace Grand Cru AOC</td><td>Steep east/south-east Vosges slopes; only Riesling, Pinot Gris, Gewurztraminer</td></tr><tr><td>Vendanges tardives (VT)</td><td>Alsace-only 'late harvest'; usually medium to sweet</td></tr></tbody></table></div>"
+}
+]
+},
+{
+"id": "5",
+"lo": 4,
+"title": "Regional black grapes",
+"sections": [
+{
+"id": "5.1",
+"title": "Gamay",
+"pages": "57",
+"l1": false,
+"html": null
+},
+{
+"id": "5.2",
+"title": "Grenache/Garnacha",
+"pages": "58-59",
+"l1": false,
+"html": null
+},
+{
+"id": "5.3",
+"title": "Tempranillo",
+"pages": "60-61",
+"l1": false,
+"html": null
+},
+{
+"id": "5.4",
+"title": "Nebbiolo, Barbera and Corvina",
+"pages": "66-67",
+"l1": false,
+"html": null
+},
+{
+"id": "5.5",
+"title": "Sangiovese and Montepulciano",
+"pages": "68-69",
+"l1": false,
+"html": null
+},
+{
+"id": "5.6",
+"title": "Zinfandel/Primitivo",
+"pages": "29-30",
+"l1": false,
+"html": null
+},
+{
+"id": "5.7",
+"title": "Carmenère, Malbec and Pinotage",
+"pages": "62-63",
+"l1": false,
+"html": null
+}
+]
+},
+{
+"id": "6",
+"lo": 4,
+"title": "Regional white grapes",
+"sections": [
+{
+"id": "6.1",
+"title": "Chenin Blanc, Semillon and Furmint",
+"pages": "35-37",
+"l1": false,
+"html": null
+},
+{
+"id": "6.2",
+"title": "Gewurztraminer, Viognier and Albariño",
+"pages": "46-47",
+"l1": false,
+"html": null
+},
+{
+"id": "6.3",
+"title": "Cortese, Garganega, Verdicchio and Fiano",
+"pages": "64-65",
+"l1": false,
+"html": null
+}
+]
+},
+{
+"id": "7",
+"lo": 5,
+"title": "Sparkling and fortified",
+"sections": [
+{
+"id": "7.1",
+"title": "How sparkling wine is made",
+"pages": "70-73",
+"l1": false,
+"html": null
+},
+{
+"id": "7.2",
+"title": "Sparkling wine styles",
+"pages": "71-73",
+"l1": false,
+"html": null
+},
+{
+"id": "7.3",
+"title": "Sherry",
+"pages": "74-75",
+"l1": false,
+"html": null
+},
+{
+"id": "7.4",
+"title": "Port",
+"pages": "75-76",
+"l1": false,
+"html": null
+}
+]
+},
+{
+"id": "8",
+"lo": 6,
+"title": "Storage, service and food",
+"sections": [
+{
+"id": "8.1",
+"title": "Storage, service and faults",
+"pages": "8-11",
+"l1": true,
+"html": null
+},
+{
+"id": "8.2",
+"title": "Food and wine",
+"pages": "6-7",
+"l1": true,
+"html": null
+}
+]
+}
+]
+}

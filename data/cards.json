@@ -1,0 +1,652 @@
+{
+"cards": [
+{
+"id": "c-pn",
+"lo": 3,
+"sec": "3.1",
+"l1": true,
+"f": "Pinot Noir: key traits",
+"b": "Thin-skinned black grape, cool to moderate climate. Pale to medium colour, high acidity, low to medium tannins, red fruit (strawberry, raspberry, red cherry). Ages to forest floor and mushroom.",
+"p": "26"
+},
+{
+"id": "c-me",
+"lo": 3,
+"sec": "3.2",
+"l1": true,
+"f": "Merlot: key traits",
+"b": "Black grape, moderate to warm climate. Medium acidity and tannins. Just ripe: red fruit and green bell pepper. Riper: cooked black fruit, fuller body. Ages to dried fruit and tobacco.",
+"p": "48"
+},
+{
+"id": "c-cs",
+"lo": 3,
+"sec": "3.3",
+"l1": true,
+"f": "Cabernet Sauvignon: key traits",
+"b": "Thick-skinned black grape needing a long warm season. Deep colour, high acidity, high tannins, blackcurrant, black cherry, mint or green bell pepper. Ages to dried fruit, earth, forest floor.",
+"p": "51"
+},
+{
+"id": "c-sy",
+"lo": 3,
+"sec": "3.4",
+"l1": true,
+"f": "Syrah/Shiraz: key traits",
+"b": "Thick-skinned black grape, moderate to warm climate. Medium to high tannin and acidity, black fruit, black pepper. Moderate: medium body, fresh fruit, herbs. Warm: full body, cooked black fruit, liquorice.",
+"p": "54"
+},
+{
+"id": "c-ch",
+"lo": 3,
+"sec": "4.1",
+"l1": true,
+"f": "Chardonnay: key traits",
+"b": "White grape for cool, moderate and warm climates. Cool: apple, lemon, wet stones, high acid. Moderate: lemon, peach, melon. Warm: peach, pineapple, banana, full body. Often shows MLC, lees or oak.",
+"p": "38"
+},
+{
+"id": "c-sb",
+"lo": 3,
+"sec": "4.2",
+"l1": true,
+"f": "Sauvignon Blanc: key traits",
+"b": "Aromatic white, cool to moderate climate. Dry, high acidity, herbaceous (grass, green bell pepper, asparagus) and blossom; apple and gooseberry to passion fruit. Usually unoaked, drink young.",
+"p": "41"
+},
+{
+"id": "c-ri",
+"lo": 3,
+"sec": "4.3",
+"l1": true,
+"f": "Riesling: key traits",
+"b": "Aromatic white, cool to moderate climate. High acidity, pronounced fruit and floral aromas. Dry to sweet. Just ripe: apple, lime. Riper: peach, apricot, mango. Ages to honey and petrol.",
+"p": "31"
+},
+{
+"id": "c-pg",
+"lo": 3,
+"sec": "4.4",
+"l1": true,
+"f": "Pinot Grigio/Pinot Gris: key traits",
+"b": "Same white grape. High-yield, early-picked: dry, light, high acid, apple and lemon (Italian style). Low-yield, late-picked: full body, medium acid, peach, mango, ginger (Alsace style).",
+"p": "44"
+},
+{
+"id": "c-cdn",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Côte de Nuits: which red villages?",
+"b": "Gevrey-Chambertin and Nuits-Saint-Georges. Northern half of the Côte d'Or, Burgundy. Pinot Noir.",
+"p": "26"
+},
+{
+"id": "c-cdb",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Côte de Beaune: which red villages?",
+"b": "Beaune and Pommard. Southern half of the Côte d'Or, Burgundy. Pinot Noir.",
+"p": "26"
+},
+{
+"id": "c-bourg",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Bourgogne AOC (red)",
+"b": "Regional appellation covering all Burgundy. Light to medium body, low tannin, high acidity, fresh red fruit. Drink young.",
+"p": "26-27"
+},
+{
+"id": "c-burgcru",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Burgundy: Premier Cru vs Grand Cru",
+"b": "Premier Cru: high-quality vineyards within a village appellation, named with the village. Grand Cru: the very best vineyards, with their own appellations. The most concentrated and age-worthy.",
+"p": "27"
+},
+{
+"id": "c-otago",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Central Otago",
+"b": "New Zealand. Pinot Noir: the country's ripest and most powerful. Mountains block sea breezes and rain; sunny days, cool nights.",
+"p": "28"
+},
+{
+"id": "c-martin",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Martinborough",
+"b": "New Zealand, cool to moderate. Very good to outstanding Pinot Noir.",
+"p": "28"
+},
+{
+"id": "c-casab",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Casablanca Valley",
+"b": "Chile, coastal, cooled by sea breezes and morning fog. Pinot Noir (cooked strawberry), Chardonnay, Sauvignon Blanc.",
+"p": "27, 40, 42"
+},
+{
+"id": "c-walker",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Walker Bay",
+"b": "South Africa, cooled by strong southerly sea breezes. Pinot Noir with vibrant red fruit; very good Chardonnay.",
+"p": "28, 40"
+},
+{
+"id": "c-yarra",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Yarra Valley",
+"b": "Victoria, Australia, cooled by the Southern Ocean. Pinot Noir and Chardonnay.",
+"p": "28, 40"
+},
+{
+"id": "c-morn",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Mornington Peninsula",
+"b": "Victoria, Australia, cooled by Southern Ocean breezes. Pinot Noir, light and fragrant to riper.",
+"p": "28"
+},
+{
+"id": "c-carn",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Los Carneros (Carneros)",
+"b": "California, cooled by morning fog from San Pablo Bay. Pinot Noir and Chardonnay.",
+"p": "27, 39"
+},
+{
+"id": "c-sbc",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Santa Barbara County",
+"b": "California's Central Coast, cooled by sea breezes funnelled inland. Pinot Noir and Chardonnay.",
+"p": "27, 39"
+},
+{
+"id": "c-oregon",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"f": "Oregon",
+"b": "USA, cooler than California, mostly moderate. Very good to outstanding Pinot Noir; also Chardonnay with high acidity.",
+"p": "27, 39"
+},
+{
+"id": "c-stem",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"f": "Saint-Émilion and Pomerol",
+"b": "Bordeaux Right Bank. Merlot-dominated blends: full body, black fruit, oak, age to dried fruit and tobacco. Saint-Émilion Grand Cru is a stricter appellation within Saint-Émilion.",
+"p": "49"
+},
+{
+"id": "c-bxsup",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"f": "Bordeaux AOC vs Bordeaux Supérieur AOC",
+"b": "Both from anywhere in Bordeaux, usually Merlot-led. Supérieur has slightly stricter rules on yields, ageing and minimum alcohol.",
+"p": "49"
+},
+{
+"id": "c-hawkes",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"f": "Hawke's Bay",
+"b": "New Zealand North Island, moderate and rainy. Merlot, often blended with Cabernet Sauvignon; full-bodied Chardonnay.",
+"p": "40, 50, 53"
+},
+{
+"id": "c-stell",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"f": "Stellenbosch",
+"b": "South Africa, mountainous, moderate to warm. Complex Bordeaux varieties: Merlot, Cabernet Sauvignon.",
+"p": "50, 53"
+},
+{
+"id": "c-paysdoc",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"f": "Pays d'Oc IGP",
+"b": "PGI covering the South of France. Single-varietal Merlot, Cabernet Sauvignon, Syrah, Chardonnay, Sauvignon Blanc.",
+"p": "49, 51, 55"
+},
+{
+"id": "c-hmed",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"f": "Haut-Médoc, Margaux, Pauillac",
+"b": "Bordeaux Left Bank, gravel soils. Cabernet Sauvignon-dominated blends with Merlot. Margaux and Pauillac sit inside the Haut-Médoc.",
+"p": "49, 51"
+},
+{
+"id": "c-graves",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"f": "Graves and Pessac-Léognan",
+"b": "Left Bank, south of Bordeaux city. Cabernet-led reds; whites blending Sauvignon Blanc and Sémillon. Pessac-Léognan is inside Graves.",
+"p": "42, 49, 51"
+},
+{
+"id": "c-napacs",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"f": "Oakville, Rutherford, Calistoga",
+"b": "Napa Valley sub-regions. Full-bodied Cabernet Sauvignon with ripe black fruit and high ripe tannin. Calistoga, in the far north, is warmest.",
+"p": "52"
+},
+{
+"id": "c-coon",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"f": "Coonawarra",
+"b": "South Australia, cooled by cloud and southerly breezes. Cabernet Sauvignon with mint, pronounced blackcurrant, smoke and cedar.",
+"p": "53"
+},
+{
+"id": "c-mriver",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"f": "Margaret River",
+"b": "Western Australia, warm but cooled by sea breezes. Cabernet Sauvignon (often with Merlot), Chardonnay, Sauvignon Blanc blended with Semillon.",
+"p": "40, 42, 53"
+},
+{
+"id": "c-maipo",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"f": "Maipo Valley and Colchagua Valley",
+"b": "Chile, within the Central Valley. Cabernet Sauvignon (Chile's most planted grape); foothill sites give mint and green bell pepper.",
+"p": "52-53"
+},
+{
+"id": "c-chateau",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"f": "Château (Bordeaux label)",
+"b": "An estate or producer. The wine was made from grapes grown on the producer's own land.",
+"p": "52"
+},
+{
+"id": "c-gcc",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"f": "Grand Cru Classé / Cru Classé",
+"b": "Bordeaux châteaux ranked in a classification. Among the most expensive Bordeaux; can age for decades.",
+"p": "52"
+},
+{
+"id": "c-crub",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"f": "Cru Bourgeois",
+"b": "Médoc wines outside the Grand Cru Classé ranking that can apply for this term. Usually cheaper; some very good to outstanding.",
+"p": "52"
+},
+{
+"id": "c-cote",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"f": "Côte-Rôtie",
+"b": "Northern Rhône, far north. Very steep slopes. Complex, peppery Syrah, sometimes co-fermented with a little Viognier.",
+"p": "55"
+},
+{
+"id": "c-herm",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"f": "Hermitage",
+"b": "Northern Rhône. One steep south-facing hill. High-quality, intense Syrah.",
+"p": "55"
+},
+{
+"id": "c-crozes",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"f": "Crozes-Hermitage",
+"b": "Northern Rhône. Larger, flatter area around Hermitage. Less intense Syrah, lower prices.",
+"p": "55"
+},
+{
+"id": "c-minerv",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"f": "Minervois",
+"b": "South of France (Languedoc-Roussillon). Blends including Syrah and Grenache.",
+"p": "55, 58"
+},
+{
+"id": "c-baross",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"f": "Barossa Valley (Shiraz)",
+"b": "South Australia, warm. Very old vines: full body, high ripe tannin, cooked black fruit, pepper, oak (vanilla, coffee).",
+"p": "55"
+},
+{
+"id": "c-hunter",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"f": "Hunter Valley (Shiraz)",
+"b": "New South Wales, warm but cloudy with sea breezes. Medium-bodied Shiraz, fresh black fruit; earth and meat with age.",
+"p": "55"
+},
+{
+"id": "c-sea",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"f": "South Eastern Australia",
+"b": "Very broad GI. Inexpensive high-volume Shiraz and Chardonnay, mostly from warm, irrigated inland vineyards.",
+"p": "39-40, 55"
+},
+{
+"id": "c-chablis",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"f": "Chablis",
+"b": "Northern Burgundy, cool. Dry Chardonnay, high acidity, apple, lemon, wet stones, usually no oak. Frost risk. Premier and Grand Cru on south-facing slopes.",
+"p": "38"
+},
+{
+"id": "c-meurs",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"f": "Meursault and Puligny-Montrachet",
+"b": "Côte de Beaune villages, moderate. Chardonnay fermented or matured in oak with lees; the best age to hazelnut and mushroom.",
+"p": "38-39"
+},
+{
+"id": "c-macon",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"f": "Mâcon AOC",
+"b": "Mâconnais, southern Burgundy. Fruity, mostly unoaked Chardonnay: lemon, peach, melon.",
+"p": "39"
+},
+{
+"id": "c-pfuisse",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"f": "Pouilly-Fuissé",
+"b": "Mâconnais, sun-trap slopes. Concentrated stone and tropical fruit Chardonnay, often oaked. Not Pouilly-Fumé (Loire)!",
+"p": "39"
+},
+{
+"id": "c-adhills",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"f": "Adelaide Hills",
+"b": "South Australia, cooled by altitude. Chardonnay (ripe peach, medium to high acid); most planted grape is Sauvignon Blanc.",
+"p": "40, 42"
+},
+{
+"id": "c-napach",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"f": "Napa Valley (Chardonnay)",
+"b": "California, warmer further north. Full-bodied Chardonnay with tropical fruit plus vanilla and spice from new oak.",
+"p": "39"
+},
+{
+"id": "c-sonoma",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"f": "Sonoma",
+"b": "California, coastal parts cooled by Pacific breezes. Pinot Noir and Chardonnay; warmer inland areas for Cabernet and Merlot.",
+"p": "27, 39, 52"
+},
+{
+"id": "c-wcape",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"f": "Western Cape",
+"b": "South Africa's broad region. Hot inland vineyards for high-volume Chardonnay, sometimes blended with Chenin Blanc.",
+"p": "40"
+},
+{
+"id": "c-sanc",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"f": "Sancerre and Pouilly-Fumé",
+"b": "Loire Valley, cool, facing each other across the river. Dry Sauvignon Blanc: high acidity, apple, grass, asparagus, wet stones.",
+"p": "41"
+},
+{
+"id": "c-tour",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"f": "Touraine AOC",
+"b": "Loire, west of Sancerre. Fruity, inexpensive Sauvignon Blanc.",
+"p": "41-42"
+},
+{
+"id": "c-marl",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"f": "Marlborough",
+"b": "Top of New Zealand's South Island, cool to moderate. Pronounced Sauvignon Blanc: lemon, peach, passion fruit, green bell pepper, asparagus. Also Pinot Noir and Chardonnay.",
+"p": "28, 40, 42"
+},
+{
+"id": "c-elgin",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"f": "Elgin",
+"b": "South Africa, cooled by altitude; often called the country's coolest. Sauvignon Blanc with green apple and wet stones.",
+"p": "42"
+},
+{
+"id": "c-const",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"f": "Constantia",
+"b": "South Africa, south of Cape Town, cooled by Southern Ocean breezes. Refreshing Sauvignon Blanc with tropical and herbaceous notes.",
+"p": "42"
+},
+{
+"id": "c-mosel",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Mosel",
+"b": "Germany, northerly. Light-bodied Riesling, often medium-sweet with very high acidity. Steep slopes above the river.",
+"p": "31"
+},
+{
+"id": "c-rheing",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Rheingau",
+"b": "Germany, south-facing slopes on the north bank of the Rhine. Riesling drier and fuller than Mosel.",
+"p": "31"
+},
+{
+"id": "c-pfalz",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Pfalz",
+"b": "Germany, near France, sheltered by mountains. Dry, medium-bodied Riesling, similar to Alsace.",
+"p": "31"
+},
+{
+"id": "c-clare",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Clare Valley and Eden Valley",
+"b": "South Australia, moderate thanks to altitude. Dry Riesling: lime, peach, blossom, petrol.",
+"p": "34"
+},
+{
+"id": "c-alsace",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Alsace AOC",
+"b": "France, east of the Vosges, dry and sunny. Wines labelled by grape: dry Riesling, riper Pinot Gris, Gewurztraminer.",
+"p": "31, 45"
+},
+{
+"id": "c-kab",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Kabinett",
+"b": "Lightest Prädikat. Light body, green apple, lime, blossom. May be dry or have some sweetness.",
+"p": "32"
+},
+{
+"id": "c-spat",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Spätlese",
+"b": "Prädikat: 'late harvest'. More concentrated and fuller than Kabinett; riper citrus, some peach.",
+"p": "33"
+},
+{
+"id": "c-ausl",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Auslese",
+"b": "Prädikat: selected extra-ripe bunches. Apricot, mango, dried fruit. Usually some sweetness, can be trocken.",
+"p": "33"
+},
+{
+"id": "c-ba",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Beerenauslese (BA)",
+"b": "Prädikat: selected botrytis-concentrated bunches or berries. Sweet: apricot, mango, dried fruit, honey.",
+"p": "33"
+},
+{
+"id": "c-tba",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Trockenbeerenauslese (TBA)",
+"b": "Prädikat: individually selected berries dried by botrytis. Rare, sweet, even more intense than BA.",
+"p": "33"
+},
+{
+"id": "c-eis",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Eiswein",
+"b": "Prädikat: grapes frozen on the vine. Fresh peach, apricot, mango; no botrytis. Rare and expensive.",
+"p": "32"
+},
+{
+"id": "c-trock",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"f": "Trocken / Halbtrocken",
+"b": "Trocken = dry. Halbtrocken = has some sweetness.",
+"p": "32"
+},
+{
+"id": "c-praed",
+"lo": 1,
+"sec": "1.5",
+"l1": false,
+"f": "Landwein / Qualitätswein / Prädikatswein",
+"b": "Landwein: German PGI. Qualitätswein: PDO from one of 13 regions. Prädikatswein: PDO needing riper grapes from a single region, in six categories.",
+"p": "32"
+},
+{
+"id": "c-venez",
+"lo": 3,
+"sec": "4.4",
+"l1": false,
+"f": "delle Venezie DOC / Veneto IGT",
+"b": "North-east Italy. High-volume, inexpensive, light Pinot Grigio.",
+"p": "44"
+},
+{
+"id": "c-friuli",
+"lo": 3,
+"sec": "4.4",
+"l1": false,
+"f": "Friuli-Venezia Giulia",
+"b": "Italy's north-east corner. More complex, fuller-bodied Pinot Grigio.",
+"p": "44"
+},
+{
+"id": "c-vt",
+"lo": 3,
+"sec": "4.4",
+"l1": false,
+"f": "Vendanges tardives (VT)",
+"b": "Alsace only. Late harvest: usually medium to sweet, from extra-ripe Riesling, Pinot Gris or Gewurztraminer.",
+"p": "45"
+},
+{
+"id": "c-agc",
+"lo": 3,
+"sec": "4.4",
+"l1": false,
+"f": "Alsace Grand Cru AOC",
+"b": "Specific vineyards on steep east/south-east slopes of the Vosges. Riper, fuller Riesling, Pinot Gris, Gewurztraminer.",
+"p": "45"
+}
+]
+}

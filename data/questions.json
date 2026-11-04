@@ -1,0 +1,1301 @@
+{
+"version": "2026-11-04-81q",
+"questions": [
+{
+"id": "pn01",
+"lo": 3,
+"sec": "3.1",
+"l1": true,
+"q": "Which climate does Pinot Noir need to make good-quality wine?",
+"o": [
+"Cool to moderate",
+"Moderate to warm",
+"Warm only",
+"Hot and dry"
+],
+"a": 0,
+"ex": "Pinot Noir is thin-skinned and prone to rot. Where it is too warm the fruit tastes cooked rather than fresh.",
+"p": "26"
+},
+{
+"id": "pn02",
+"lo": 3,
+"sec": "3.1",
+"l1": true,
+"q": "Which description best fits a typical Pinot Noir?",
+"o": [
+"Pale to medium colour, high acidity, low to medium tannins, red fruit",
+"Deep colour, high acidity, high tannins, blackcurrant",
+"Deep colour, medium acidity, medium tannins, black plum",
+"Pale colour, low acidity, high tannins, black pepper"
+],
+"a": 0,
+"ex": "Pinot Noir is usually pale to medium in colour with high acidity, low to medium tannins and red fruit such as strawberry, raspberry and red cherry.",
+"p": "26"
+},
+{
+"id": "pn03",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"q": "Why do many Pinot Noir producers prefer older or larger oak barrels?",
+"o": [
+"Strong flavours from small new barrels can swamp Pinot Noir's delicate fruit",
+"Older barrels add more tannin to a thin-skinned grape",
+"Burgundy's rules ban new oak for red wine",
+"Large barrels stop malolactic conversion"
+],
+"a": 0,
+"ex": "Older and larger barrels give less oak flavour. The best Pinot Noirs show only subtle oak (smoke, cloves) balanced by fruit.",
+"p": "26"
+},
+{
+"id": "pn04",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"q": "Which of these Burgundy village appellations is in the Côte de Nuits?",
+"o": [
+"Gevrey-Chambertin",
+"Pommard",
+"Beaune",
+"Meursault"
+],
+"a": 0,
+"ex": "Gevrey-Chambertin and Nuits-Saint-Georges are in the Côte de Nuits (the northern half of the Côte d'Or). Beaune and Pommard are in the Côte de Beaune, as is Meursault.",
+"p": "26"
+},
+{
+"id": "pn05",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"q": "On a red Burgundy label, which term indicates the highest category of vineyard?",
+"o": [
+"Grand Cru",
+"Premier Cru",
+"Bourgogne",
+"Villages"
+],
+"a": 0,
+"ex": "The hierarchy runs Bourgogne (regional), then village appellations, then Premier Cru vineyards, with Grand Cru vineyards at the top.",
+"p": "27"
+},
+{
+"id": "pn06",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"q": "A very good red Burgundy has been ageing in bottle for many years. Which tertiary aromas would you expect?",
+"o": [
+"Forest floor and mushroom",
+"Petrol and honey",
+"Vanilla and coconut",
+"Toasted bread and biscuit"
+],
+"a": 0,
+"ex": "Top Pinot Noir develops forest floor and mushroom in bottle. Petrol and honey are typical of aged Riesling; vanilla and coconut come from new oak.",
+"p": "26"
+},
+{
+"id": "pn07",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"q": "Which New Zealand region makes the country's ripest, most powerful Pinot Noir, protected by a ring of mountains?",
+"o": [
+"Central Otago",
+"Marlborough",
+"Martinborough",
+"Hawke's Bay"
+],
+"a": 0,
+"ex": "Central Otago has very sunny days and cool nights, giving pronounced strawberry and red cherry fruit, medium to full body and medium tannins.",
+"p": "28"
+},
+{
+"id": "pn08",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"q": "What keeps Los Carneros (Carneros) cool enough for high-quality Pinot Noir and Chardonnay?",
+"o": [
+"Morning fog from San Pablo Bay",
+"High altitude",
+"A ring of protecting mountains",
+"Cold winds from the Andes"
+],
+"a": 0,
+"ex": "Carneros is cooled by morning fogs rolling in from San Pablo Bay. The western parts of Sonoma are cooled by Pacific breezes instead.",
+"p": "27, 39"
+},
+{
+"id": "pn09",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"q": "Which pair of Australian regions is cool enough for Pinot Noir, thanks to breezes from the Southern Ocean?",
+"o": [
+"Yarra Valley and Mornington Peninsula",
+"Barossa Valley and McLaren Vale",
+"Clare Valley and Eden Valley",
+"Hunter Valley and Coonawarra"
+],
+"a": 0,
+"ex": "Both are in Victoria. Their Pinot Noir ranges from light and fragrant to riper wines with cooked red fruit.",
+"p": "28"
+},
+{
+"id": "pn10",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"q": "Which Chilean region is best known for Pinot Noir, thanks to sea breezes and morning fog?",
+"o": [
+"Casablanca Valley",
+"Maipo Valley",
+"Colchagua Valley",
+"Mendoza"
+],
+"a": 0,
+"ex": "Casablanca Valley is coastal, north of Santiago. Its Pinot Noir is very fruity, often with cooked strawberry, and can be good value.",
+"p": "27-28"
+},
+{
+"id": "pn11",
+"lo": 3,
+"sec": "3.1",
+"l1": false,
+"q": "Walker Bay, cooled by strong southerly sea breezes, has a reputation for which black grape?",
+"o": [
+"Pinot Noir",
+"Malbec",
+"Grenache",
+"Merlot"
+],
+"a": 0,
+"ex": "South Africa's Pinot Noir is focused on its coolest coastal regions such as Walker Bay, where it gives vibrant red fruit.",
+"p": "28"
+},
+{
+"id": "me01",
+"lo": 3,
+"sec": "3.2",
+"l1": true,
+"q": "What levels of acidity and tannin are typical of a single-varietal Merlot?",
+"o": [
+"Medium acidity, medium tannins",
+"High acidity, high tannins",
+"Low acidity, high tannins",
+"High acidity, low tannins"
+],
+"a": 0,
+"ex": "Merlot is typically dry with medium acidity and medium tannins, which is why it softens blends with higher-tannin grapes.",
+"p": "48"
+},
+{
+"id": "me02",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"q": "Merlot picked when only just ripe gives which flavours?",
+"o": [
+"Red fruit (strawberry, red plum) and green bell pepper",
+"Cooked blackberry and black plum",
+"Blackcurrant and mint",
+"Dried fruit and tobacco"
+],
+"a": 0,
+"ex": "Just-ripe Merlot is light to medium-bodied with red fruit and herbaceous notes. Riper Merlot moves to cooked black fruit and fuller body.",
+"p": "48"
+},
+{
+"id": "me03",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"q": "Why is Merlot often blended with Cabernet Sauvignon?",
+"o": [
+"It adds red fruit and lowers the tannin, so the wine is ready to drink sooner",
+"It adds acidity to a low-acid grape",
+"It adds colour and tannin to a pale grape",
+"It adds floral aromas"
+],
+"a": 0,
+"ex": "Cabernet Sauvignon is high in tannin. Merlot softens the blend and adds red-fruit flavours.",
+"p": "48"
+},
+{
+"id": "me04",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"q": "Which Bordeaux appellations are most famous for Merlot-dominated wines?",
+"o": [
+"Saint-Émilion and Pomerol",
+"Margaux and Pauillac",
+"Graves and Pessac-Léognan",
+"Médoc and Haut-Médoc"
+],
+"a": 0,
+"ex": "Saint-Émilion and Pomerol are on the Right Bank, where Merlot is the most important grape. The others are Left Bank, where Cabernet Sauvignon usually dominates.",
+"p": "49"
+},
+{
+"id": "me05",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"q": "How does Bordeaux Supérieur AOC differ from Bordeaux AOC?",
+"o": [
+"Slightly stricter rules on yields, ageing and minimum alcohol",
+"It can only come from the Left Bank",
+"It must be 100% Merlot",
+"It is only made by classified châteaux"
+],
+"a": 0,
+"ex": "Both can come from anywhere in Bordeaux. Bordeaux Supérieur has slightly stricter rules.",
+"p": "49"
+},
+{
+"id": "me06",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"q": "Where does most of New Zealand's Merlot come from?",
+"o": [
+"Hawke's Bay",
+"Marlborough",
+"Central Otago",
+"Martinborough"
+],
+"a": 0,
+"ex": "Hawke's Bay, on the North Island, has a moderate climate with plentiful rain. Its Merlot ranges from light and fruity to full-bodied.",
+"p": "50"
+},
+{
+"id": "me07",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"q": "Chile's warm, dry Central Valley is especially important for which kind of Merlot?",
+"o": [
+"Soft, medium-bodied wines for high-volume brands",
+"Sweet late-harvest wines",
+"Light, high-acid wines for sparkling base",
+"Long-aged wines from old vines on steep slopes"
+],
+"a": 0,
+"ex": "Merlot ripens easily there with high yields. Altitude allows some fresher styles too.",
+"p": "50"
+},
+{
+"id": "me08",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"q": "As the best Merlot-dominated wines age in bottle, which notes develop?",
+"o": [
+"Dried fruit and tobacco",
+"Petrol and honey",
+"Butter and cream",
+"Biscuit and bread"
+],
+"a": 0,
+"ex": "Top Right Bank Merlot ages well, developing dried fruit and tobacco.",
+"p": "48-49"
+},
+{
+"id": "me09",
+"lo": 3,
+"sec": "3.2",
+"l1": false,
+"q": "Which best describes the climate of Bordeaux?",
+"o": [
+"Moderate, with high rainfall from the nearby Atlantic",
+"Warm and dry, sheltered by mountains",
+"Cool, with frequent spring frost and little rain",
+"Hot, with irrigation essential"
+],
+"a": 0,
+"ex": "Bordeaux's variable weather is why blending matters so much: the Merlot share rises in years when Cabernet Sauvignon struggles to ripen.",
+"p": "48, 51"
+},
+{
+"id": "cs01",
+"lo": 3,
+"sec": "3.3",
+"l1": true,
+"q": "Which description best fits a typical Cabernet Sauvignon?",
+"o": [
+"Deep colour, high acidity, high tannins, blackcurrant and mint or green bell pepper",
+"Pale colour, high acidity, low tannins, strawberry",
+"Medium colour, medium acidity, medium tannins, red plum",
+"Deep colour, low acidity, low tannins, black pepper"
+],
+"a": 0,
+"ex": "Its thick skins give deep colour and high tannin. Black fruit with herbal or herbaceous notes is the signature.",
+"p": "51"
+},
+{
+"id": "cs02",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"q": "Why can Cabernet Sauvignon struggle to ripen in many parts of Bordeaux?",
+"o": [
+"Its thick skins need a long, warm growing season",
+"Its thin skins rot easily in the rain",
+"It ripens so early that acidity is lost",
+"It needs frozen grapes to concentrate sugar"
+],
+"a": 0,
+"ex": "It grows in moderate and warm climates, but in moderate climates only the warmest sites ripen it reliably.",
+"p": "51"
+},
+{
+"id": "cs03",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"q": "How do the gravel soils of Bordeaux's Left Bank help Cabernet Sauvignon ripen?",
+"o": [
+"They drain rain away quickly and store heat that warms the vines at night",
+"They hold water through dry summers",
+"They are rich in nutrients that boost yields",
+"They reflect sunlight off the Gironde estuary"
+],
+"a": 0,
+"ex": "The stones keep the roots from staying cold and wet, and release the day's heat after dark.",
+"p": "51"
+},
+{
+"id": "cs04",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"q": "Why is young Cabernet Sauvignon often matured in oak barrels?",
+"o": [
+"Small amounts of oxygen through the wood soften its tannins",
+"Oak raises its acidity",
+"Oak deepens its colour",
+"Oak stops malolactic conversion"
+],
+"a": 0,
+"ex": "New oak also adds smoke, vanilla and cloves.",
+"p": "51"
+},
+{
+"id": "cs05",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"q": "Which sub-region in the far north of the Napa Valley is warmest and gives some of its ripest, fullest Cabernet Sauvignon?",
+"o": [
+"Calistoga",
+"Oakville",
+"Rutherford",
+"Los Carneros"
+],
+"a": 0,
+"ex": "Oakville and Rutherford also make full-bodied, ripe Cabernet. Carneros is cool and better known for Pinot Noir and Chardonnay.",
+"p": "52"
+},
+{
+"id": "cs06",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"q": "A South Australian Cabernet Sauvignon shows mint, pronounced blackcurrant and cedar from oak. Where is it most likely from?",
+"o": [
+"Coonawarra",
+"Barossa Valley",
+"Hunter Valley",
+"Clare Valley"
+],
+"a": 0,
+"ex": "Coonawarra is moderated by cloud cover and cool southerly breezes. Its Cabernet is typically very good to outstanding and ages well.",
+"p": "53"
+},
+{
+"id": "cs07",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"q": "What does Cru Bourgeois on a Bordeaux label indicate?",
+"o": [
+"A Médoc wine outside the Grand Cru Classé ranking that may use this term",
+"A classified estate in Saint-Émilion",
+"A wine made from bought-in grapes",
+"Basic Bordeaux AOC with extra bottle age"
+],
+"a": 0,
+"ex": "Most Cru Bourgeois wines cost less than classified châteaux, though some are very good to outstanding.",
+"p": "52"
+},
+{
+"id": "cs08",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"q": "What does Château on a Bordeaux label tell you?",
+"o": [
+"The wine was made from grapes grown on the producer's own land",
+"The estate has a castle",
+"The wine is a Grand Cru Classé",
+"The wine was matured in new oak"
+],
+"a": 0,
+"ex": "It refers to an estate or producer, not necessarily a grand building.",
+"p": "52"
+},
+{
+"id": "cs09",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"q": "Which two sub-regions of Chile's Central Valley are especially important for Cabernet Sauvignon?",
+"o": [
+"Maipo Valley and Colchagua Valley",
+"Casablanca Valley and Maipo Valley",
+"Elgin and Constantia",
+"Colchagua Valley and Mendoza"
+],
+"a": 0,
+"ex": "They run from the Andes foothills to the Coastal Ranges. Foothill wines often show mint and green bell pepper. Cabernet is Chile's most planted variety.",
+"p": "52-53"
+},
+{
+"id": "cs10",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"q": "Which of these is a Left Bank appellation where Cabernet Sauvignon usually dominates?",
+"o": [
+"Pauillac",
+"Pomerol",
+"Saint-Émilion",
+"Bordeaux Supérieur"
+],
+"a": 0,
+"ex": "Pauillac and Margaux are inside the Haut-Médoc. Pessac-Léognan, within Graves, is also Left Bank.",
+"p": "49, 51"
+},
+{
+"id": "cs11",
+"lo": 3,
+"sec": "3.3",
+"l1": false,
+"q": "What does Grand Cru Classé or Cru Classé on a Bordeaux label mean?",
+"o": [
+"The wine comes from a château ranked in one of Bordeaux's classifications",
+"The vineyard is a Burgundy-style single grand cru plot",
+"The wine has been aged for at least ten years",
+"The grapes were affected by noble rot"
+],
+"a": 0,
+"ex": "Some of the classifications are old, but they are still seen as a strong sign of quality, and the wines can age for decades.",
+"p": "52"
+},
+{
+"id": "sy01",
+"lo": 3,
+"sec": "3.4",
+"l1": true,
+"q": "Which aroma is most characteristic of Syrah/Shiraz?",
+"o": [
+"Black pepper",
+"Green bell pepper",
+"Petrol",
+"Lychee"
+],
+"a": 0,
+"ex": "Black fruit with black pepper is the classic Syrah/Shiraz profile. Green bell pepper suggests Cabernet Sauvignon or Sauvignon Blanc.",
+"p": "54"
+},
+{
+"id": "sy02",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"q": "Compared with a Northern Rhône Syrah, a warm-climate Barossa Valley Shiraz is more likely to be:",
+"o": [
+"Full-bodied and high in alcohol, with cooked black fruit and liquorice",
+"Lighter-bodied with fresh red fruit",
+"Higher in acidity with herbal notes",
+"Unoaked and low in tannin"
+],
+"a": 0,
+"ex": "Moderate-climate Syrah is medium-bodied with fresh black fruit, herbs and pepper. Warm-climate Shiraz is riper and fuller.",
+"p": "54-55"
+},
+{
+"id": "sy03",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"q": "In Côte-Rôtie, some producers ferment a small amount of which white grape with their Syrah?",
+"o": [
+"Viognier",
+"Chardonnay",
+"Riesling",
+"Sauvignon Blanc"
+],
+"a": 0,
+"ex": "Co-fermenting a little Viognier can add floral aromas. Not every producer does it.",
+"p": "55"
+},
+{
+"id": "sy04",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"q": "How does Crozes-Hermitage generally compare with Hermitage?",
+"o": [
+"A larger, flatter area making less intense wines that usually cost less",
+"A single steep south-facing hill with the most intense wines",
+"A sweet red style made from dried grapes",
+"A white wine appellation for Viognier"
+],
+"a": 0,
+"ex": "Crozes-Hermitage surrounds the hill of Hermitage. Higher yields and machine-friendly vineyards keep prices lower.",
+"p": "55"
+},
+{
+"id": "sy05",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"q": "Which describes a typical Hunter Valley Shiraz?",
+"o": [
+"Medium-bodied with fresh black fruit, developing earth and meat with age",
+"Full-bodied with cooked black fruit and very high alcohol",
+"Light and sweet with red fruit",
+"Pale and low in tannin with strawberry"
+],
+"a": 0,
+"ex": "The Hunter Valley is warm, but summer cloud and sea breezes slow ripening.",
+"p": "55"
+},
+{
+"id": "sy06",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"q": "A Shiraz labelled South Eastern Australia is most likely to be:",
+"o": [
+"An inexpensive high-volume wine from warm inland regions",
+"A wine from very old Barossa Valley vines",
+"A single-vineyard wine from a cool coastal site",
+"A sparkling red wine"
+],
+"a": 0,
+"ex": "Shiraz is Australia's most planted grape, and much of it grows in warm inland areas for brands labelled South Eastern Australia.",
+"p": "55"
+},
+{
+"id": "sy07",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"q": "Syrah is blended into the wines of which South of France appellation?",
+"o": [
+"Minervois",
+"Chablis",
+"Sancerre",
+"Pouilly-Fumé"
+],
+"a": 0,
+"ex": "In the warm South of France Syrah ripens reliably. It is also found as single-varietal Pays d'Oc IGP.",
+"p": "55"
+},
+{
+"id": "sy08",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"q": "As the finest Syrah/Shiraz ages in bottle, which flavours emerge?",
+"o": [
+"Dried fruit, leather, meat and earth",
+"Honey and petrol",
+"Butter and hazelnut",
+"Biscuit and bread dough"
+],
+"a": 0,
+"ex": "Ageing can run to a decade or more for the best wines.",
+"p": "54"
+},
+{
+"id": "sy09",
+"lo": 3,
+"sec": "3.4",
+"l1": false,
+"q": "In the Northern Rhône, what is the position of Syrah in the AOC wines?",
+"o": [
+"It is the only black grape permitted",
+"It must be blended with Grenache",
+"It is a minor blending partner to Mourvèdre",
+"It is only used for rosé"
+],
+"a": 0,
+"ex": "The steep slopes need hand work, which makes the wines expensive to produce.",
+"p": "55"
+},
+{
+"id": "ch01",
+"lo": 3,
+"sec": "4.1",
+"l1": true,
+"q": "A dry white with high acidity, light body and flavours of apple, lemon and wet stones is most likely a Chardonnay from a:",
+"o": [
+"Cool climate",
+"Moderate climate",
+"Warm climate",
+"Hot, irrigated inland region"
+],
+"a": 0,
+"ex": "Cool-climate Chardonnay is high in acidity with green fruit, citrus and wet stones.",
+"p": "38"
+},
+{
+"id": "ch02",
+"lo": 3,
+"sec": "4.1",
+"l1": true,
+"q": "A full-bodied Chardonnay with medium acidity and flavours of peach, pineapple and banana is most likely from a:",
+"o": [
+"Warm climate",
+"Cool climate",
+"Very cool climate",
+"Moderate climate with early picking"
+],
+"a": 0,
+"ex": "Warm-climate Chardonnay is full-bodied and dominated by stone and tropical fruit.",
+"p": "38"
+},
+{
+"id": "ch03",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"q": "Which winemaking option gives Chardonnay buttery, creamy flavours and softens its acidity?",
+"o": [
+"Malolactic conversion",
+"Lees contact",
+"New-oak maturation",
+"Cool fermentation"
+],
+"a": 0,
+"ex": "Lees contact adds bread and biscuit plus body. New oak adds smoke, vanilla and coconut.",
+"p": "38"
+},
+{
+"id": "ch04",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"q": "Which best describes a typical Chablis?",
+"o": [
+"Dry, high acidity, apple, lemon and wet stones, usually with no oak flavour",
+"Full-bodied with tropical fruit and strong vanilla",
+"Medium-sweet with peach and honey",
+"Light red with cherry fruit"
+],
+"a": 0,
+"ex": "Chablis is cool. Producers usually ferment in inert vessels to keep the delicate fruit. Frost is a key risk.",
+"p": "38"
+},
+{
+"id": "ch05",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"q": "Which two Côte de Beaune villages are famous for Chardonnay?",
+"o": [
+"Meursault and Puligny-Montrachet",
+"Gevrey-Chambertin and Nuits-Saint-Georges",
+"Mâcon and Pouilly-Fumé",
+"Pommard and Fleurie"
+],
+"a": 0,
+"ex": "Their wines are often fermented or matured in oak with lees contact, and the best age for decades (hazelnut, mushroom).",
+"p": "38-39"
+},
+{
+"id": "ch06",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"q": "Where is Pouilly-Fuissé?",
+"o": [
+"The Mâconnais, in southern Burgundy",
+"The Loire Valley",
+"Chablis, in northern Burgundy",
+"The Côte de Nuits"
+],
+"a": 0,
+"ex": "Don't confuse it with Pouilly-Fumé (Loire Sauvignon Blanc). Pouilly-Fuissé is Chardonnay from sun-trap slopes, often oaked.",
+"p": "39"
+},
+{
+"id": "ch07",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"q": "A Chardonnay labelled simply California, with peach and pineapple and a hint of oak, most likely comes from:",
+"o": [
+"Warm, irrigated Central Valley vineyards, with oak from chips or staves",
+"Fog-cooled vineyards in Carneros, aged in new barrels",
+"Single vineyards in Santa Barbara County",
+"High-altitude sites in the Sierra Nevada"
+],
+"a": 0,
+"ex": "The Central Valley is cut off from the sea by mountains. High yields go into high-volume brands without a GI.",
+"p": "39"
+},
+{
+"id": "ch08",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"q": "What mainly cools the Adelaide Hills?",
+"o": [
+"Altitude",
+"Ocean currents from the south",
+"Fog from a bay",
+"A nearby river"
+],
+"a": 0,
+"ex": "Adelaide Hills is cooled by altitude; the Yarra Valley by ocean currents from the south. Both make Chardonnay with ripe peach and medium to high acidity.",
+"p": "40"
+},
+{
+"id": "ch09",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"q": "Chardonnay is the most widely planted white grape in which moderate-climate New Zealand region?",
+"o": [
+"Hawke's Bay",
+"Marlborough",
+"Central Otago",
+"Martinborough"
+],
+"a": 0,
+"ex": "Hawke's Bay Chardonnay is full-bodied, with high acidity and pronounced stone fruit.",
+"p": "40"
+},
+{
+"id": "ch10",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"q": "Which tertiary flavours does a top Chardonnay develop after years in bottle?",
+"o": [
+"Hazelnut and mushroom",
+"Petrol and lime",
+"Leather and tobacco",
+"Liquorice and black pepper"
+],
+"a": 0,
+"ex": "Very good or outstanding Chardonnay can age for years or decades.",
+"p": "38"
+},
+{
+"id": "ch11",
+"lo": 3,
+"sec": "4.1",
+"l1": false,
+"q": "Why do winemakers often add acid to warm-climate Chardonnay?",
+"o": [
+"To balance its alcohol and body",
+"To start malolactic conversion",
+"To make it taste sweeter",
+"To remove oak flavours"
+],
+"a": 0,
+"ex": "Warm climates leave grapes low in acid. Acidification is common there.",
+"p": "38"
+},
+{
+"id": "sb01",
+"lo": 3,
+"sec": "4.2",
+"l1": true,
+"q": "Which aromas are most typical of Sauvignon Blanc?",
+"o": [
+"Grass, green bell pepper and asparagus",
+"Rose, lychee and peach",
+"Butter, vanilla and coconut",
+"Petrol, honey and lime"
+],
+"a": 0,
+"ex": "Sauvignon Blanc is aromatic and herbaceous, usually dry and high in acidity.",
+"p": "41"
+},
+{
+"id": "sb02",
+"lo": 3,
+"sec": "4.2",
+"l1": true,
+"q": "When is most Sauvignon Blanc best drunk?",
+"o": [
+"Young, within a year or two of the vintage",
+"After five years in bottle",
+"After ten years or more",
+"Only after oak maturation"
+],
+"a": 0,
+"ex": "Even outstanding examples can lose their fresh aromas within a couple of years and turn vegetal.",
+"p": "41"
+},
+{
+"id": "sb03",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"q": "Sancerre and Pouilly-Fumé are Sauvignon Blancs from which French region?",
+"o": [
+"Loire Valley",
+"Bordeaux",
+"Burgundy",
+"Alsace"
+],
+"a": 0,
+"ex": "They face each other across the Loire. The climate is cool, giving apple, grass, asparagus and sometimes wet stones.",
+"p": "41"
+},
+{
+"id": "sb04",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"q": "Compared with Sancerre, a typical Marlborough Sauvignon Blanc is:",
+"o": [
+"More pronounced, with fruit from lemon to passion fruit and strong green bell pepper",
+"Lighter and more neutral",
+"Usually sweet",
+"Usually aged in new oak"
+],
+"a": 0,
+"ex": "Marlborough producers often blend grapes from different sites and ripeness levels, which widens the flavour range.",
+"p": "42"
+},
+{
+"id": "sb05",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"q": "In Graves and Pessac-Léognan, Sauvignon Blanc is usually blended with which grape?",
+"o": [
+"Sémillon",
+"Chardonnay",
+"Viognier",
+"Riesling"
+],
+"a": 0,
+"ex": "Sémillon adds body and helps the wine age. The best are often oaked and develop honey and nuts.",
+"p": "42"
+},
+{
+"id": "sb06",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"q": "Which South African region is cooled by altitude and often called the country's coolest?",
+"o": [
+"Elgin",
+"Constantia",
+"Stellenbosch",
+"Walker Bay"
+],
+"a": 0,
+"ex": "Elgin's Sauvignon Blanc shows green apple and sometimes wet stones. Constantia is cooled by sea breezes instead.",
+"p": "42"
+},
+{
+"id": "sb07",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"q": "A Sauvignon Blanc labelled Touraine AOC is typically:",
+"o": [
+"Fruity and inexpensive",
+"Sweet and botrytised",
+"Oaked and long-lived",
+"Sparkling"
+],
+"a": 0,
+"ex": "Touraine is a wide area west of Sancerre and Pouilly-Fumé.",
+"p": "41-42"
+},
+{
+"id": "sb08",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"q": "How do Napa Valley producers make fresh, herbaceous Sauvignon Blanc in a mostly warm state?",
+"o": [
+"Using cooler sites and picking early",
+"Freezing the grapes before pressing",
+"Blending with Shiraz",
+"Leaving the grapes to raisin on the vine"
+],
+"a": 0,
+"ex": "Early picking keeps the acidity and herbaceous aromas. Some are made with oak for body and smoke.",
+"p": "42-43"
+},
+{
+"id": "sb09",
+"lo": 3,
+"sec": "4.2",
+"l1": false,
+"q": "If a Sauvignon Blanc has seen oak, which label term often signals it?",
+"o": [
+"Barrel aged",
+"Unoaked",
+"Sur lie",
+"Classico"
+],
+"a": 0,
+"ex": "Most single-varietal Sauvignon Blanc is made in inert vessels, because new oak can overwhelm its herbaceous character.",
+"p": "41"
+},
+{
+"id": "ri01",
+"lo": 3,
+"sec": "4.3",
+"l1": true,
+"q": "Why is Riesling usually fermented in stainless steel or other inert vessels?",
+"o": [
+"To preserve its floral and fruity aromas",
+"To add buttery flavours",
+"To soften its tannins",
+"Because oak raises its acidity too far"
+],
+"a": 0,
+"ex": "Riesling is aromatic. Oak or buttery flavours would hide its character.",
+"p": "31"
+},
+{
+"id": "ri02",
+"lo": 3,
+"sec": "4.3",
+"l1": true,
+"q": "Which aromas develop as a fine Riesling ages in bottle?",
+"o": [
+"Honey and petrol",
+"Vanilla and coconut",
+"Leather and tobacco",
+"Forest floor and mushroom"
+],
+"a": 0,
+"ex": "High acidity keeps the wine fresh for years or decades while these tertiary notes develop.",
+"p": "31"
+},
+{
+"id": "ri03",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"q": "Compared with Rieslings from further south in Germany, a typical Mosel Riesling is:",
+"o": [
+"Lighter-bodied and often medium-sweet, with very high acidity",
+"Fuller-bodied and always dry",
+"Oaked, with low acidity",
+"Sparkling"
+],
+"a": 0,
+"ex": "The Mosel is far north. The best vineyards are steep slopes above the river, helped by stony soils and reflected sunlight.",
+"p": "31"
+},
+{
+"id": "ri04",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"q": "Which German region, sheltered by mountains to the west, makes Riesling that is typically dry and medium-bodied, much like Alsace?",
+"o": [
+"Pfalz",
+"Mosel",
+"Rheingau",
+"Tokaj"
+],
+"a": 0,
+"ex": "The Pfalz is dry and sunny with a long growing season. Rheingau Riesling is drier and fuller than Mosel, from south-facing slopes on the Rhine.",
+"p": "31"
+},
+{
+"id": "ri05",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"q": "Why can Australia's Clare Valley and Eden Valley make fresh, dry Riesling?",
+"o": [
+"Their higher altitude gives a moderate climate",
+"Cold ocean currents cool them",
+"Morning fog shades them",
+"They are as far south as New Zealand"
+],
+"a": 0,
+"ex": "Their Riesling is dry with pronounced lime, peach, blossom and petrol. The nearby Barossa Valley is warm.",
+"p": "34"
+},
+{
+"id": "ri06",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"q": "Why is Alsace one of France's driest and sunniest regions?",
+"o": [
+"The Vosges Mountains block rain-bearing westerly winds",
+"It is close to the Mediterranean",
+"Fog burns off early every day",
+"Its vineyards are at very high altitude"
+],
+"a": 0,
+"ex": "Long sunny autumns let grapes ripen slowly. Alsace Riesling is typically dry, medium-bodied and high in acidity.",
+"p": "31"
+},
+{
+"id": "ri07",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"q": "Which Prädikat level requires the least sugar in the grapes?",
+"o": [
+"Kabinett",
+"Spätlese",
+"Auslese",
+"Trockenbeerenauslese"
+],
+"a": 0,
+"ex": "Kabinett is the lightest, most delicate Prädikat. Spätlese and then Auslese need riper grapes.",
+"p": "32"
+},
+{
+"id": "ri08",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"q": "Trockenbeerenauslese (TBA) is made from:",
+"o": [
+"Individually selected berries shrivelled by noble rot",
+"Grapes frozen on the vine",
+"Selected extra-ripe bunches",
+"Grapes dried indoors after harvest"
+],
+"a": 0,
+"ex": "TBA is rare and very concentrated, like a more intense Beerenauslese. Frozen grapes make Eiswein; selected bunches make Auslese.",
+"p": "33"
+},
+{
+"id": "ri09",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"q": "Which statement about Eiswein is true?",
+"o": [
+"It is made from grapes frozen on the vine, and botrytis plays no part",
+"It is made from botrytis-affected grapes",
+"It is always dry",
+"It can be made every year in Germany"
+],
+"a": 0,
+"ex": "The weather needed doesn't happen every year, yields are tiny and the wines are expensive.",
+"p": "32"
+},
+{
+"id": "ri10",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"q": "If each is made in a dry (trocken) style, which would have the highest alcohol?",
+"o": [
+"Auslese",
+"Spätlese",
+"Kabinett",
+"Landwein"
+],
+"a": 0,
+"ex": "A higher Prädikat needs more sugar in the grapes, so a dry version ferments to more alcohol.",
+"p": "32"
+},
+{
+"id": "ri11",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"q": "What does Halbtrocken on a German label mean?",
+"o": [
+"The wine has some sweetness",
+"The wine is fully dry",
+"The wine is very sweet",
+"The grapes were frozen"
+],
+"a": 0,
+"ex": "Trocken means dry. These terms clarify sweetness when the Prädikat alone could be ambiguous.",
+"p": "32"
+},
+{
+"id": "ri12",
+"lo": 1,
+"sec": "1.5",
+"l1": false,
+"q": "Which German term means a PDO wine from one of 13 regions, with a lower ripeness requirement than Prädikatswein?",
+"o": [
+"Qualitätswein",
+"Landwein",
+"Kabinett",
+"Trocken"
+],
+"a": 0,
+"ex": "Landwein is the German PGI term. Prädikatswein needs riper grapes from a single region.",
+"p": "32"
+},
+{
+"id": "ri13",
+"lo": 3,
+"sec": "4.3",
+"l1": false,
+"q": "Besides stopping fermentation by removing the yeast, how are some off-dry or medium Rieslings made?",
+"o": [
+"Adding sterile grape juice (Süssreserve) to a dry wine",
+"Adding grape spirit",
+"Drying the grapes indoors",
+"Blending in red wine"
+],
+"a": 0,
+"ex": "The sweetest styles use extra-ripe grapes so sweet that fermentation stops on its own.",
+"p": "31"
+},
+{
+"id": "pg01",
+"lo": 3,
+"sec": "4.4",
+"l1": true,
+"q": "What are Pinot Grigio and Pinot Gris?",
+"o": [
+"The Italian and French names for the same grape",
+"Two different grapes from Italy",
+"A white grape and a black grape",
+"The dry and sweet versions of Pinot Noir"
+],
+"a": 0,
+"ex": "Pinot Grigio is the Italian name and Pinot Gris the French.",
+"p": "44"
+},
+{
+"id": "pg02",
+"lo": 3,
+"sec": "4.4",
+"l1": true,
+"q": "Most Pinot Grigio is made from high yields picked early. What is the result?",
+"o": [
+"Dry, light-bodied, high acidity, simple apple and lemon",
+"Full-bodied, medium acidity, peach and mango",
+"Sweet, with honey and ginger",
+"Oaked, with vanilla and coconut"
+],
+"a": 0,
+"ex": "This is the common Italian style, best drunk young.",
+"p": "44"
+},
+{
+"id": "pg03",
+"lo": 3,
+"sec": "4.4",
+"l1": false,
+"q": "Which describes a typical Alsace Pinot Gris?",
+"o": [
+"Medium to full body, medium acidity, peach, mango and ginger, dry to medium",
+"Light body, high acidity, simple apple and lemon, always dry",
+"Light body, sweet, with pronounced herbaceous notes",
+"Full body, high tannin, red fruit"
+],
+"a": 0,
+"ex": "In Alsace the grapes are picked extra-ripe. The best come from grand cru sites and can gain honey with age.",
+"p": "45"
+},
+{
+"id": "pg04",
+"lo": 3,
+"sec": "4.4",
+"l1": false,
+"q": "Most inexpensive, high-volume Pinot Grigio comes from which Italian region, labelled delle Venezie DOC or Veneto IGT?",
+"o": [
+"Veneto",
+"Piemonte",
+"Tuscany",
+"Puglia"
+],
+"a": 0,
+"ex": "These wines are simple, unoaked, light and usually acceptable to good in quality.",
+"p": "44"
+},
+{
+"id": "pg05",
+"lo": 3,
+"sec": "4.4",
+"l1": false,
+"q": "Where in Italy is a more complex, fuller-bodied Pinot Grigio made?",
+"o": [
+"Friuli-Venezia Giulia",
+"Veneto IGT",
+"Abruzzo",
+"Sicily"
+],
+"a": 0,
+"ex": "Friuli-Venezia Giulia is in north-east Italy's far corner.",
+"p": "44"
+},
+{
+"id": "pg06",
+"lo": 3,
+"sec": "4.4",
+"l1": false,
+"q": "What does Vendanges tardives on an Alsace label mean?",
+"o": [
+"Late harvest, usually a medium to sweet wine from extra-ripe grapes",
+"Old vines",
+"The grapes were affected by noble rot",
+"The wine was bottled at the estate"
+],
+"a": 0,
+"ex": "The term can only be used in Alsace. Pinot Gris, Riesling and Gewurztraminer can all be labelled VT.",
+"p": "45"
+},
+{
+"id": "pg07",
+"lo": 3,
+"sec": "4.4",
+"l1": false,
+"q": "Which three grapes can make Alsace Grand Cru wines?",
+"o": [
+"Riesling, Pinot Gris and Gewurztraminer",
+"Riesling, Chardonnay and Pinot Noir",
+"Chenin Blanc, Viognier and Pinot Gris",
+"Pinot Gris, Pinot Blanc and Sylvaner"
+],
+"a": 0,
+"ex": "Grand cru sites sit on steep east and south-east-facing slopes of the Vosges foothills.",
+"p": "45"
+},
+{
+"id": "pg08",
+"lo": 3,
+"sec": "4.4",
+"l1": false,
+"q": "Outside Italy and France, what does a producer usually signal by calling the wine Pinot Grigio rather than Pinot Gris?",
+"o": [
+"A light-bodied, high-acid style",
+"A sweeter style",
+"An oaked style",
+"A fuller, more complex style"
+],
+"a": 0,
+"ex": "Pinot Gris signals a wine with more body and complexity.",
+"p": "45"
+}
+]
+}
